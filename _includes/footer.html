@@ -2,5 +2,11 @@
     <footer class="footer" role="contentinfo">
         <p>&copy; {{ site.time | date: "%Y"}} mabstalk.com</p>
     </footer>
+    <script>
+        function toggleNavigation() {
+            var element = document.getElementById("navigation");
+            element.classList.toggle("is-open");
+        }
+    </script>
 </body>
 </html>
