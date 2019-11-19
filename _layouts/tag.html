@@ -19,7 +19,7 @@
             <ul class="tag-cloud">
             {% for tag in site.data.tags %}
             <li>
-                <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>
+                <a href="/tag/{{ tag | slugify }}/">{{ tag }}</a>
             </li>
             {% endfor %}
             </ul>
