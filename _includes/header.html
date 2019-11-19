@@ -5,6 +5,13 @@
     <meta content="initial-scale=1, width=device-width" name="viewport">
     <title>{% if page.title != "Homepage" %}{{ page.title }} — {% endif %}{{ site.name }}</title>
     <style>{% capture styles %}{% include styles.scss %}{% endcapture %}{{ styles | scssify }}</style>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-46209892-4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-46209892-4');
+    </script>
 </head>
 
 <body>
