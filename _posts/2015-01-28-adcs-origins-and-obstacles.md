@@ -1,40 +1,42 @@
 ---
-id: 397
 title: 'ADCs: Origins and Obstacles'
-date: 2015-01-28T11:00:36+00:00
-author: Dan Leech
+date: 2015-01-28T12:00:00+00:00
+author: Terry Chapman
 layout: post
-guid: http://mabstalk.com/?p=397
-permalink: /2015/01/28/adcs-origins-and-obstacles/
-categories:
-  - Research
 tags:
-  - ADC
-  - ADC Series
-  - Antibody Drug Conjugates
-  - mAbs
+  - adc
+  - adc series
+  - antibody drug conjugates
+  - mabs
 ---
-**Terry Chapman**, University of Bath PhD Student, Bath ASU Researcher
-
-## Introduction
 
 This is the fourth article in a series of five blog posts that are putting ADCs in the spotlight. This article will describe the origins of and obstacles faced during ADCs development from the beginning of the 20<sup>th</sup> century to today. Please read the introductory post ‘ADCs: What are they and why do they matter?’ before this post, if you are unfamiliar with ADCs. Look out for ‘ADCs: Pipeline & Progress’ coming soon.
 
-Conjugating toxic compounds to antibodies was first proposed by Paul Ehrlich at the beginning of the 20<sup>th</sup> century but scientific understanding and available technology was not sufficient to synthesis ADCs. Initial work by Kohler and Milstein [1] in the 1970’s paved the way for other scientists to begin selectively culturing monoclonal antibodies. Additional key concepts required for a successful ADC were learned during the 1980’s and 1990’s as a result of investigating why the first generation of ADCs did not work as expected.<figure> 
+Conjugating toxic compounds to antibodies was first proposed by Paul Ehrlich at the beginning of the 20<sup>th</sup> century but scientific understanding and available technology was not sufficient to synthesis ADCs. Initial work by Kohler and Milstein [1] in the 1970’s paved the way for other scientists to begin selectively culturing monoclonal antibodies. Additional key concepts required for a successful ADC were learned during the 1980’s and 1990’s as a result of investigating why the first generation of ADCs did not work as expected.
 
-![Paul_Ehrlich_4](https://mabstalk.com/wp-content/uploads/2015/01/Paul_Ehrlich_4.jpg)  
-<img class="alignnone size-full wp-image-435" src="https://mabstalk.com/wp-content/uploads/2015/01/Kohler-and-Milstein.png" alt="Kohler and Milstein" /> <figcaption>Figure 1 &#8211; Doctors: Erlich, Kohler & Milstein </figcaption></figure> 
+<figure>
+    <div class="gallery">
+        <img src="/images/Paul_Ehrlich_4.jpg" alt="Paul Ehrlich">
+        <img src="/images/Kohler-and-Milstein.png" alt="Kohler and Milstein">
+    </div>
+    <figcaption>Figure 1: Doctors Erlich, Kohler & Milstein</figcaption>
+</figure>
 
 ## Key Concepts
 
-Early ADCs used murine or chimeric antibodies. These are recognised as foreign entities by the immune system which raises an immune response. This leads to removal of many ADCs from the blood stream before they can deliver their payloads consequently reducing the concentrations attainable and duration of efficacious therapy. The immune response also causes side effects such as: rash, flu-like syndrome, systemic inflammatory response syndrome or anaphylaxis. To avoid unacceptable levels of immunogenicity, mAbs used in ADCs should ideally be humanized or human. , for example The monoclonal antibody rituximab or the ADC brentuximab vedotin are however chimeric antibodies and although weakly immunogenic are still useable.<figure> 
+Early ADCs used murine or chimeric antibodies. These are recognised as foreign entities by the immune system which raises an immune response. This leads to removal of many ADCs from the blood stream before they can deliver their payloads consequently reducing the concentrations attainable and duration of efficacious therapy. The immune response also causes side effects such as: rash, flu-like syndrome, systemic inflammatory response syndrome or anaphylaxis. To avoid unacceptable levels of immunogenicity, mAbs used in ADCs should ideally be humanized or human. , for example The monoclonal antibody rituximab or the ADC brentuximab vedotin are however chimeric antibodies and although weakly immunogenic are still useable.
 
-![Murin to Human Mab Comparisons Annotated 2](https://mabstalk.com/wp-content/uploads/2015/01/Murin-to-Human-Mab-Comparisons-Annotated-2.jpg) <figcaption> Figure 2 &#8211; Ascending from left to right, increasing murine sequence content in a mAb, from fully human to fully murine</figcaption></figure> 
+<figure>
+    <img src="/images/Murin-to-Human-Mab-Comparisons-Annotated-2.jpg">
+    <figcaption>Figure 2: Ascending from left to right, increasing murine sequence content in a mAb, from fully human to fully murine</figcaption>
+</figure>
 
-Initial attempts at creating ADCs were targeted to receptors that were not selective enough to tumours, resulting in unacceptable toxicity.  Another problem was use of linkers that were not stable enough, leading to high levels of payload dissociation while still in circulation resulting in non-selective cytotoxicity. Linker instability was still a problem in the 2000’s as gemtuzumab ozogamicin (GO) releases 50% of its payloads over 48 hours in circulation. Due to this design flaw GO increased fatality rate, compared to alternative therapies. Licensed ADCs use linker chemistry that is extracellularly stable and cleaved or degraded intracellularly.<figure> 
+Initial attempts at creating ADCs were targeted to receptors that were not selective enough to tumours, resulting in unacceptable toxicity. Another problem was use of linkers that were not stable enough, leading to high levels of payload dissociation while still in circulation resulting in non-selective cytotoxicity. Linker instability was still a problem in the 2000’s as gemtuzumab ozogamicin (GO) releases 50% of its payloads over 48 hours in circulation. Due to this design flaw GO increased fatality rate, compared to alternative therapies. Licensed ADCs use linker chemistry that is extracellularly stable and cleaved or degraded intracellularly.
 
-![](https://mabstalk.com/wp-content/uploads/2015/01/Attachment-Chemistry.png) <figcaption>Figure 3 &#8211; Common attachment chemistries to cysteine and lysine residues  
-</figcaption></figure> 
+<figure>
+    <img src="/images/Attachment-Chemistry.png">
+    <figcaption>Figure 3: Common attachment chemistries to cysteine and lysine residues</figcaption>
+</figure>
 
 First generation ADCs were envisaged to target conventional chemotherapeutics to tumour sites. Due to the complex internalisation process, ADCs attain low concentrations of the administered warheads at tumour sites. Conventional agents are not therapeutically effective at the intracellular concentrations generated by ADCs, to compensate second generation ADCs use payloads up to 4000 times more toxic, such as mertansine, than conventional chemotherapeutics, such as doxorubicin.
 
@@ -44,4 +46,4 @@ Key concepts such as mAb immunogenicity, linker stability and payload potency ha
 
 ## References
 
-  1. Köhler G, Milstein C. 1975. Continuous cultures of fused cells secreting antibody of predefined specificity. Nature. 975 Aug 7;256(5517):495-7.
+1. Köhler G, Milstein C. 1975. Continuous cultures of fused cells secreting antibody of predefined specificity. Nature. 975 Aug 7;256(5517):495-7.

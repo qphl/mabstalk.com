@@ -1,6 +1,6 @@
 name: mAbstalk.com
 description: Discussing research into the stability and use of monoclonal antibodies and antibody drug conjugates.
-permalinks: pretty
+permalink: pretty
 sass:
     sass_dir: _sass
     style: compressed

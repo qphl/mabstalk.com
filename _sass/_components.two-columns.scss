@@ -1,0 +1,21 @@
+.two-columns {
+    max-width: $unit-width;
+    @media (min-width: $unit-measure) {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.two-columns__wide {
+    // background-color: #CFC;
+    @media (min-width: $unit-measure) {
+        width: calc(100% * 40.5 / 70.5);
+    }
+}
+
+.two-columns__narrow {
+    // background-color: #CCF;
+    @media (min-width: $unit-measure) {
+        width: calc(100% * 22.5 / 70.5);
+    }
+}

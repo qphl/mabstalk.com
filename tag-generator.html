@@ -1,0 +1,8 @@
+---
+---
+
+{% for post in site.posts %}
+{% for tag in post.tags %}
+{{ tag }}<br>
+{% endfor %}
+{% endfor %}

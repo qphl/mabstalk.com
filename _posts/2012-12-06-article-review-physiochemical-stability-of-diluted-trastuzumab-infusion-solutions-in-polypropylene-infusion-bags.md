@@ -1,25 +1,21 @@
 ---
-id: 132
-title: 'Article Review &#8211; Physiochemical stability of diluted Trastuzumab infusion solutions in polypropylene infusion bags'
-date: 2012-12-06T10:49:35+00:00
-author: Dan Leech
+title: 'Article review: Physiochemical stability of diluted trastuzumab infusion solutions in polypropylene infusion bags'
+date: 2012-12-06T12:00:00+00:00
 layout: post
-guid: http://mabstalk.com/?p=106
-permalink: /2012/12/06/article-review-physiochemical-stability-of-diluted-trastuzumab-infusion-solutions-in-polypropylene-infusion-bags/
-categories:
-  - Uncategorized
 tags:
-  - Herceptin
-  - TmAb
-  - Trastuzumab
+  - article reviews
+  - herceptin
+  - tmab
+  - trastuzumab
 ---
-**Full Article Title &#8211; Jeanette Kaiser, Irene Krӓmer. Physiochemical stability of diluted Trastuzumab infusion solutions in polypropylene infusion bags International Journal of Pharmaceutical Compounding (2011) 15, 515-520.**
 
-_Overview_
+> Jeanette Kaiser, Irene Krӓmer. [**Physiochemical stability of diluted trastuzumab infusion solutions in polypropylene infusion bags**](https://ijpc.com/Abstracts/Abstract.cfm?ABS=3399) International Journal of Pharmaceutical Compounding (2011) 15, pp 515-520.
+
+## Overview
 
 This article has been posted on an internal NHS stability website and is being presented by NHS pharmacists as an appropriate study to extend the shelf life of Trastuzumab. Whilst it is possible to infer from the paper abstract that the intention of the study is to provide for extending the shelf life of Trastuzumab, the study is far from adequate for such a purpose.
 
-_Critique_
+## Critique
 
 The paper seeks to examine the physiochemical stability of Trastuzumab diluted in polypropylene infusion bags subjected to prolonged periods of storage.
 
@@ -29,10 +25,10 @@ As such, the combination of only these 3 particular tests does not provide a com
 
 In particular, there is:
 
-  * No attempt to analyze for the most common products of chemical degradation
-  * No attempt to analyze for changes to secondary structure
-  * No attempt to evaluate changes to the functional activity of the drug
-  * No attempt to determine levels of sub-visible particulates present
+- No attempt to analyze for the most common products of chemical degradation
+- No attempt to analyze for changes to secondary structure
+- No attempt to evaluate changes to the functional activity of the drug
+- No attempt to determine levels of sub-visible particulates present
 
 This later point in particular is a glaring omission from the study as this is one of the few QC criteria common to both small molecule and biological drugs, for which strict limits are set in the BP and by the EMA. Moreover, the importance of this omission from the testing protocols leads the authors to state within the article itself that the study presented is deficient.
 
@@ -41,5 +37,3 @@ This later point in particular is a glaring omission from the study as this is o
 Quite easy, IT DOESN’T!
 
 The article only sets out to establish that, FOR THE 3 TESTS CONDUCTED, no change was observed upon storage. The article never claims that the tests performed are suitable for the comprehensive evaluation of a clinical product, so no peer review would ever consider the clinical application of the results in their evaluation of the article.
-
-<a title="Jeanette Kaiser, Irene Krӓmer. Physiochemical stability of diluted Trastuzumab infusion solutions in polypropylene infusion bags International Journal of Pharmaceutical Compounding (2011) 15, 515-520." href="http://www.ijpc.com/Abstracts/Abstract.cfm?ABS=3399" target="_blank">Weblink to article abstract &#8211; click here</a>
