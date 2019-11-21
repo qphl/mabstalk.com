@@ -13,11 +13,11 @@ tags:
 
 ## Overview
 
-This article has been posted on an internal NHS stability website and is being presented by NHS pharmacists as an appropriate study to extend the shelf life of Trastuzumab. Whilst it is possible to infer from the paper abstract that the intention of the study is to provide for extending the shelf life of Trastuzumab, the study is far from adequate for such a purpose.
+This article has been posted on an internal NHS stability website and is being presented by NHS pharmacists as an appropriate study to extend the shelf life of trastuzumab. Whilst it is possible to infer from the paper abstract that the intention of the study is to provide for extending the shelf life of trastuzumab, the study is far from adequate for such a purpose.
 
 ## Critique
 
-The paper seeks to examine the physiochemical stability of Trastuzumab diluted in polypropylene infusion bags subjected to prolonged periods of storage.
+The paper seeks to examine the physiochemical stability of trastuzumab diluted in polypropylene infusion bags subjected to prolonged periods of storage.
 
 However, only 3 analytical techniques are used to examine the stability of the drug. These include size exclusion HPLC, UV/Vis spectrometry and SDS gel electrophoresis.
 
@@ -32,7 +32,7 @@ In particular, there is:
 
 This later point in particular is a glaring omission from the study as this is one of the few QC criteria common to both small molecule and biological drugs, for which strict limits are set in the BP and by the EMA. Moreover, the importance of this omission from the testing protocols leads the authors to state within the article itself that the study presented is deficient.
 
-**So how can this study, published in a peer-reviewed journal, claim that solutions of Trastuzumab are safe for clinical use upon prolonged storage?**
+**So how can this study, published in a peer-reviewed journal, claim that solutions of trastuzumab are safe for clinical use upon prolonged storage?**
 
 Quite easy, IT DOESN’T!
 

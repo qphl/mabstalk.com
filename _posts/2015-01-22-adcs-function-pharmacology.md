@@ -16,7 +16,7 @@ Look out for; [ADCs: Pros and Cons](/2015/01/27/adcs-pros-and-cons/), [ADCs: Ori
 
 ## Key Moieties and their Functions
 
-The mAb, is responsible for the specificity of the ADC, via variable region binding to the target epitope. The mAb moiety retains normal mAb functionality e.g. Trastuzumab emtansine has equivalent inherent anti-HER2 effect to trastuzumab [1]. The mAb is also responsible for initial delivery of the payloads into the cell, which occurs by receptor mediated internalisation see Figure 1 below.
+The mAb, is responsible for the specificity of the ADC, via variable region binding to the target epitope. The mAb moiety retains normal mAb functionality e.g. trastuzumab emtansine has equivalent inherent anti-HER2 effect to trastuzumab [1]. The mAb is also responsible for initial delivery of the payloads into the cell, which occurs by receptor mediated internalisation see Figure 1 below.
 
 <figure>
     <img src="/images/ADC-Internalisation-Overview-web.jpg" alt="ADC Internalisation Overview web">
