@@ -15,10 +15,7 @@ This is the fourth article in a series of five blog posts that are putting ADCs 
 Conjugating toxic compounds to antibodies was first proposed by Paul Ehrlich at the beginning of the 20th century but scientific understanding and available technology was not sufficient to synthesis ADCs. Initial work by Kohler and Milstein [1] in the 1970’s paved the way for other scientists to begin selectively culturing monoclonal antibodies. Additional key concepts required for a successful ADC were learned during the 1980’s and 1990’s as a result of investigating why the first generation of ADCs did not work as expected.
 
 <figure>
-    <div class="gallery">
-        <img src="/images/Paul_Ehrlich_4.jpg" alt="Paul Ehrlich">
-        <img src="/images/Kohler-and-Milstein.png" alt="Kohler and Milstein">
-    </div>
+    <img src="/images/Ehrlich-Kohler-and-Milstein.png" alt="Ehrlich, Kohler and Milstein">
     <figcaption>Figure 1: Doctors Erlich, Kohler & Milstein</figcaption>
 </figure>
 
