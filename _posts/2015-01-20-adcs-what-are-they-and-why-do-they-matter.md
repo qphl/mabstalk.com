@@ -25,7 +25,7 @@ ADCs are formed from three important moieties, each as functionally important as
     <figcaption>Figure 1: Diagram of Antibody Drug Conjugate (not to scale)</figcaption>
 </figure>
 
-ADCs bind to target antigens, typically tumour specific or selective receptors, via the variable domains of the mAb. The ADC-antigen complex is then internalised into  the target cell. It is trafficked eventually to a lysosome which denatures the ADC-antigen complex via acidic pH, proteases and other acid hydrolases. These conditions release the cytotoxic payloads which are then free to move to their site of action and exert their toxic effect.
+ADCs bind to target antigens, typically tumour specific or selective receptors, via the variable domains of the mAb. The ADC-antigen complex is then internalised into the target cell. It is trafficked eventually to a lysosome which denatures the ADC-antigen complex via acidic pH, proteases and other acid hydrolases. These conditions release the cytotoxic payloads which are then free to move to their site of action and exert their toxic effect.
 
 This mechanism leads to rapid accumulation of active cytotoxic payloads within a target cell population, while keeping systemic levels of the active cytotoxic compound to a minimum. The payloads are untargeted, and are up to 4,000 times more potent than currently licensed cytotoxic compounds, so this is critical for patient safety.
 
@@ -36,7 +36,7 @@ This mechanism leads to rapid accumulation of active cytotoxic payloads within a
 
 ## Licensed Products
 
-Brentuximab vedotin and trastuzumab emtansine are two currently licensed ADCs. Brentuximab vedotin treats hodgkins lymphoma and anaplastic large cell lymphoma.  Trastuzumab emtansine treats HER2+ breast cancer. A 2014 study [1] published in the Lancet demonstrated trastuzumab emtansine outperformed the physician’s choice for recurrent or metastasized HER2+ breast cancers with over 31% higher progression free survival rate, and 11% fewer  grade 3 or higher events, over 14 months.
+Brentuximab vedotin and trastuzumab emtansine are two currently licensed ADCs. Brentuximab vedotin treats hodgkins lymphoma and anaplastic large cell lymphoma. Trastuzumab emtansine treats HER2+ breast cancer. A 2014 study [1] published in the Lancet demonstrated trastuzumab emtansine outperformed the physician’s choice for recurrent or metastasized HER2+ breast cancers with over 31% higher progression free survival rate, and 11% fewer grade 3 or higher events, over 14 months.
 
 ## Stability
 

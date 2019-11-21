@@ -17,8 +17,8 @@ We compared the added sections of the BmAb SPC to the Lucentis SPC. Every single
 
 We have highlighted the similarities:
 
-- **<span style="color: #D32F2F;">Red</span>** = Special warnings and precautions  
-- **<span style="color: #2E7D32;">Green</span>** = Adverse reactions  
+- **<span style="color: #D32F2F;">Red</span>** = Special warnings and precautions
+- **<span style="color: #2E7D32;">Green</span>** = Adverse reactions
 - **<span style="color: #1976D2;">Blue</span>** = Product class related adverse reaction
 
 The text below is the new section of the Bevacizumab SPC.

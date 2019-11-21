@@ -23,7 +23,7 @@ The mAb, is responsible for the specificity of the ADC, via variable region bind
     <figcaption>Figure 1: Overview of ADC internalisation, payload release & receptor recycling</figcaption>
 </figure>
 
-The mAb isotype affects the levels of antibody dependent cell-mediated cytotoxicity (ADCC) and complement dependent cytotoxicity (CDC). IgG1 and IgG2 are  ideal isotypes due to increased ADCC and CDC compared with IgG3 and IgG4.
+The mAb isotype affects the levels of antibody dependent cell-mediated cytotoxicity (ADCC) and complement dependent cytotoxicity (CDC). IgG1 and IgG2 are ideal isotypes due to increased ADCC and CDC compared with IgG3 and IgG4.
 
 <figure>
     <img src="/images/mAb-Diagram-2-Web.jpg">

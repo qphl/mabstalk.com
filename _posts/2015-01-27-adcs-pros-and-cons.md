@@ -51,4 +51,4 @@ ADCs have clear advantages over current mono and combination therapies, but also
 
 ## References
 
-  1. Thery JC, Spano JP, Azria D, Raymond E, Penault Llorca F. Resistance to human epidermal growth factor receptor type 2-targeted  therapies. Eur J Cancer. 2014 Mar;50(5):892-901.
+  1. Thery JC, Spano JP, Azria D, Raymond E, Penault Llorca F. Resistance to human epidermal growth factor receptor type 2-targeted therapies. Eur J Cancer. 2014 Mar;50(5):892-901.
