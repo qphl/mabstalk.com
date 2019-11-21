@@ -36,7 +36,7 @@ This mechanism leads to rapid accumulation of active cytotoxic payloads within a
 
 ## Licensed Products
 
-Brentuximab vedotin and trastuzumab emtansine are two currently licensed ADCs. Brentuximab vedotin treats hodgkins lymphoma and anaplastic large cell lymphoma.  Trastuzumab emtansine treats HER2<sup>+</sup> breast cancer. A 2014 study [1] published in the Lancet demonstrated trastuzumab emtansine outperformed the physician’s choice for recurrent or metastasized HER2+ breast cancers with over 31% higher progression free survival rate, and 11% fewer  grade 3 or higher events, over 14 months.
+Brentuximab vedotin and trastuzumab emtansine are two currently licensed ADCs. Brentuximab vedotin treats hodgkins lymphoma and anaplastic large cell lymphoma.  Trastuzumab emtansine treats HER2+ breast cancer. A 2014 study [1] published in the Lancet demonstrated trastuzumab emtansine outperformed the physician’s choice for recurrent or metastasized HER2+ breast cancers with over 31% higher progression free survival rate, and 11% fewer  grade 3 or higher events, over 14 months.
 
 ## Stability
 
