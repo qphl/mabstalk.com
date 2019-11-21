@@ -10,7 +10,7 @@ tags:
   - mabs
 ---
 
-This is the fifth article in a series of five blog posts that are putting ADCs in the spotlight. This article will describe ways in which third generation ADCs may improve upon current ADCs. Please read the introductory post ‘ADCs: What are they and why do they matter?’ before this post, if you are unfamiliar with ADCs.
+This is the fifth article in a series of five blog posts that are putting ADCs in the spotlight. This article will describe ways in which third generation ADCs may improve upon current ADCs. Please read the introductory post [ADCs: What are they and why do they matter?](/2015/01/20/adcs-what-are-they-and-why-do-they-matter/) before this post, if you are unfamiliar with ADCs.
 
 ## Future Development
 

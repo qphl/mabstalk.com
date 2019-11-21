@@ -10,9 +10,9 @@ tags:
   - mabs
 ---
 
-This is the third article in a series of five blog posts that are putting ADCs in the spotlight. This article will describe the pros and cons of the ADC drug class. Please read the introductory post ‘ADCs: What are they and why do they matter’ before this post, if you are unfamiliar with ADCs.
+This is the third article in a series of five blog posts that are putting ADCs in the spotlight. This article will describe the pros and cons of the ADC drug class. Please read the introductory post [ADCs: What are they and why do they matter?](/2015/01/20/adcs-what-are-they-and-why-do-they-matter/) before this post, if you are unfamiliar with ADCs.
 
-Look out for; ‘ADCs: Origins and Obstacles’, and ‘ADCs: Pipeline’, coming soon.
+Look out for; [ADCs: Origins and Obstacles](/2015/01/28/adcs-origins-and-obstacles/), and [ADCs: Pipeline and Progress](/2015/02/03/adcs-pipeline-and-progress/), coming soon.
 
 ## Pros
 

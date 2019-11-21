@@ -12,7 +12,7 @@ tags:
 
 Monoclonal antibodies (mAbs) have been a healthcare success for over two decades, significantly improving cancer therapy, but may be superseded by antibody drug conjugates (ADCs). So what are ADCs and why do they matter?
 
-This is the first article in a series of five blog posts that will put the ADCs in the spotlight. This article will summarise ADCs while four subsequent posts will go into more depth. Look out for; _ADCs: Function & Pharmacology_, _ADCs: Pros & Cons_, _ADCs: Origin & Obstacles_, and _ADCs: Pipeline & Progress_.
+This is the first article in a series of five blog posts that will put the ADCs in the spotlight. This article will summarise ADCs while four subsequent posts will go into more depth. Look out for; [ADCs: Function & Pharmacology](/2015/01/22/adcs-function-pharmacology/), [ADCs: Pros and Cons](/2015/01/27/adcs-pros-and-cons/), [ADCs: Origin and Obstacles](/2015/01/28/adcs-origins-and-obstacles/), and [ADCs: Pipeline & Progress](/2015/02/03/adcs-pipeline-and-progress/).
 
 ADCs are a new and important class of drugs, essentially monoclonal antibodies with cytotoxic compounds linked to them, known as payloads. By targeting potent payloads, ADCs are likely to quickly transform the cancer therapy landscape.
 

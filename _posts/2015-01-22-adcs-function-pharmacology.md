@@ -10,9 +10,9 @@ tags:
   - mabs
 ---
 
-This is the second article in a series of five blog posts that are putting ADCs in the spotlight. This article will describe in detail how an ADCs design can control its function and pharmacology. Please read the introductory post _Antibody Drug Conjugates: What are they and why do they matter_ before this post, if you are unfamiliar with ADCs.
+This is the second article in a series of five blog posts that are putting ADCs in the spotlight. This article will describe in detail how an ADCs design can control its function and pharmacology. Please read the introductory post [ADCs: What are they and why do they matter](/2015/01/20/adcs-what-are-they-and-why-do-they-matter/) before this post, if you are unfamiliar with ADCs.
 
-Look out for; _ADCs: Pros and Cons_, _ADCs: Origins and Obstacles_, and _ADCs: Pipeline_, coming soon.
+Look out for; [ADCs: Pros and Cons](/2015/01/27/adcs-pros-and-cons/), [ADCs: Origins and Obstacles](/2015/01/28/adcs-origins-and-obstacles/), and [ADCs: Pipeline and Progress](/2015/02/03/adcs-pipeline-and-progress/), coming soon.
 
 ## Key Moieties and their Functions
 

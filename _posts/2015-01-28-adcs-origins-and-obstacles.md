@@ -10,7 +10,7 @@ tags:
   - mabs
 ---
 
-This is the fourth article in a series of five blog posts that are putting ADCs in the spotlight. This article will describe the origins of and obstacles faced during ADCs development from the beginning of the 20<sup>th</sup> century to today. Please read the introductory post ‘ADCs: What are they and why do they matter?’ before this post, if you are unfamiliar with ADCs. Look out for ‘ADCs: Pipeline & Progress’ coming soon.
+This is the fourth article in a series of five blog posts that are putting ADCs in the spotlight. This article will describe the origins of and obstacles faced during ADCs development from the beginning of the 20<sup>th</sup> century to today. Please read the introductory post [ADCs: What are they and why do they matter?](/2015/01/20/adcs-what-are-they-and-why-do-they-matter/) before this post, if you are unfamiliar with ADCs. Look out for [ADCs: Pipeline & Progress](/2015/02/03/adcs-pipeline-and-progress/) coming soon.
 
 Conjugating toxic compounds to antibodies was first proposed by Paul Ehrlich at the beginning of the 20<sup>th</sup> century but scientific understanding and available technology was not sufficient to synthesis ADCs. Initial work by Kohler and Milstein [1] in the 1970’s paved the way for other scientists to begin selectively culturing monoclonal antibodies. Additional key concepts required for a successful ADC were learned during the 1980’s and 1990’s as a result of investigating why the first generation of ADCs did not work as expected.
 
