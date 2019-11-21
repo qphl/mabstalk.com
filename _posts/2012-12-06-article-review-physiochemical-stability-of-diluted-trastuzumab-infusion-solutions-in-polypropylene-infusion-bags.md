@@ -21,16 +21,16 @@ The paper seeks to examine the physiochemical stability of trastuzumab diluted i
 
 However, only 3 analytical techniques are used to examine the stability of the drug. These include size exclusion HPLC, UV/Vis spectrometry and SDS gel electrophoresis.
 
-As such, the combination of only these 3 particular tests does not provide a comprehensive characterization of the drug.
+As such, the combination of only these 3 particular tests does not provide a comprehensive characterisation of the drug.
 
 In particular, there is:
 
-- No attempt to analyze for the most common products of chemical degradation
-- No attempt to analyze for changes to secondary structure
+- No attempt to analyse for the most common products of chemical degradation
+- No attempt to analyse for changes to secondary structure
 - No attempt to evaluate changes to the functional activity of the drug
 - No attempt to determine levels of sub-visible particulates present
 
-This later point in particular is a glaring omission from the study as this is one of the few QC criteria common to both small molecule and biological drugs, for which strict limits are set in the BP and by the EMA. Moreover, the importance of this omission from the testing protocols leads the authors to state within the article itself that the study presented is deficient.
+This latter point, in particular, is a glaring omission from the study as this is one of the few QC criteria common to both small molecule and biological drugs, for which strict limits are set in the BP and by the EMA. Moreover, the importance of this omission from the testing protocols leads the authors to state within the article itself that the study presented is deficient.
 
 **So how can this study, published in a peer-reviewed journal, claim that solutions of trastuzumab are safe for clinical use upon prolonged storage?**
 

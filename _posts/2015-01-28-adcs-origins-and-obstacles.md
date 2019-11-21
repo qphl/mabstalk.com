@@ -21,7 +21,7 @@ Conjugating toxic compounds to antibodies was first proposed by Paul Ehrlich at 
 
 ## Key Concepts
 
-Early ADCs used murine or chimeric antibodies. These are recognised as foreign entities by the immune system which raises an immune response. This leads to removal of many ADCs from the blood stream before they can deliver their payloads consequently reducing the concentrations attainable and duration of efficacious therapy. The immune response also causes side effects such as: rash, flu-like syndrome, systemic inflammatory response syndrome or anaphylaxis. To avoid unacceptable levels of immunogenicity, mAbs used in ADCs should ideally be humanized or human. , for example The monoclonal antibody rituximab or the ADC brentuximab vedotin are however chimeric antibodies and although weakly immunogenic are still useable.
+Early ADCs used murine or chimeric antibodies. These are recognised as foreign entities by the immune system which raises an immune response. This leads to removal of many ADCs from the blood stream before they can deliver their payloads consequently reducing the concentrations attainable and duration of efficacious therapy. The immune response also causes side effects such as: rash, flu-like syndrome, systemic inflammatory response syndrome or anaphylaxis. To avoid unacceptable levels of immunogenicity, mAbs used in ADCs should ideally be humanised or human, for example The monoclonal antibody rituximab or the ADC brentuximab vedotin are however chimeric antibodies and although weakly immunogenic are still useable.
 
 <figure>
     <img src="/images/Murin-to-Human-Mab-Comparisons-Annotated-2.jpg">
@@ -39,7 +39,7 @@ First generation ADCs were envisaged to target conventional chemotherapeutics to
 
 ## Looking Forward
 
-Key concepts such as mAb immunogenicity, linker stability and payload potency have been learned from first generation and early second generation ADCs. Trastuzumab emtansine incorporates the most currently held key concepts, incorporating potent payloads and stable linkers that degrade intracellulary and specific internalising target receptors. It is demonstratably therapeutically superior to other existing therapies for metastatic HER2+ breast cancer. The development of ADCs has been an arduous task with abundant obstacles. The outcome however has developed into a new and effective drug class.
+Key concepts such as mAb immunogenicity, linker stability and payload potency have been learned from first generation and early second generation ADCs. Trastuzumab emtansine incorporates the most currently held key concepts, incorporating potent payloads and stable linkers that degrade intracellulary and specific internalising target receptors. It is demonstrably therapeutically superior to other existing therapies for metastatic HER2+ breast cancer. The development of ADCs has been an arduous task with abundant obstacles. The outcome however has developed into a new and effective drug class.
 
 ## References
 

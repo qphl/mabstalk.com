@@ -11,7 +11,7 @@ tags:
 
 This post is not specifically about the stability of BmAb eye syringes.
 
-However, given the attempts by Novartis to stop the use of BmAb as an unlicensed alternative to their Ranibizumab (Lucentis), we thought it interesting at least that Roche have added some warnings to their Bevacizumab SPC in relation to its unlicensed intravitreal use.
+However, given the attempts by Novartis to stop the use of BmAb as an unlicensed alternative to their Ranibizumab (Lucentis), we thought it interesting at least that Roche has added some warnings to their Bevacizumab SPC about its unlicensed intravitreal use.
 
 We compared the added sections of the BmAb SPC to the Lucentis SPC. Every single new warning that appears in the BmAb SPC also appears in the Lucentis SPC along with many others. We are sure many of you have already done this and come to your conclusions about its relevance.
 
