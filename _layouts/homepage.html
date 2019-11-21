@@ -17,23 +17,5 @@
             {% endfor %}
         </ul>
     </div>
-    <div class="two-columns__narrow">
-        <div class="hero">
-            <p>Our experts discuss research into the stability and use of monoclonal antibodies and antibody drug conjugates.</p>
-            <ul class="tag-cloud">
-            {% for tag in site.data.tags %}
-            <li>
-                <a href="/tag/{{ tag | slugify }}/">{{ tag }}</a>
-            </li>
-            {% endfor %}
-            </ul>
-        </div>
-        <div class="yellow-c2a">
-            <p>Article reviews featured in this blog make use of the <strong>NHS Standard Protocol for Deriving and Assessment of Stability</strong>.</p>
-            <ul>
-                <li><a href="https://www.sps.nhs.uk/wp-content/uploads/2013/12/Stability-part-1-small-molecules-5th-Ed-Sept-19.pdf">Part 1 — Aseptic Preparations (Small Molecules)</a></li>
-                <li><a href="https://www.sps.nhs.uk/wp-content/uploads/2017/03/Stability-part-2-biopharmaceuticals-v3-April-17.pdf">Part 2 — Aseptic Preparations (Biopharmaceuticals)</a></li>
-            </ul>
-        </div>
-    </div>
+{% include sidebar.html %}
 {% include footer.html %}
