@@ -16,5 +16,5 @@ We were pleased to have made our contribution to the drafts of this paper and in
 
 ## NHS Standard Protocol for Deriving and Assessment of Stability
 
-- [Part 1 — Aseptic Preparations (Small Molecules)](https://www.sps.nhs.uk/wp-content/uploads/2013/12/Stability-part-1-small-molecules-5th-Ed-Sept-19.pdf)
-- [Part 2 — Aseptic Preparations (Biopharmaceuticals)](https://www.sps.nhs.uk/wp-content/uploads/2017/03/Stability-part-2-biopharmaceuticals-v3-April-17.pdf")
+- [Part 1 — Aseptic Preparations (Small Molecules)](/standard-protocol/part-1/)
+- [Part 2 — Aseptic Preparations (Biopharmaceuticals)](/standard-protocol/part-2/)

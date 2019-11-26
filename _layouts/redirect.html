@@ -1,5 +1,14 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<title>Redirecting to {{ page.redirect }}</title>
-<meta http-equiv="refresh" content="0; URL={{ page.redirect }}">
-<link rel="canonical" href="{{ page.redirect }}">
+<html lang="en-gb">
+<head>
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, width=device-width" name="viewport">
+    <title>Redirecting to {{ page.redirect }}</title>
+    <meta http-equiv="refresh" content="2; URL={{ page.redirect }}">
+    <link rel="canonical" href="{{ page.redirect }}">
+    {% include analytics.html %}
+</head>
+<body>
+    Redirecting to <a href="{{ page.redirect }}">{{ page.redirect }}</a>&hellip;
+</body>
+</html>
