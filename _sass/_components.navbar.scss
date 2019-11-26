@@ -32,6 +32,9 @@
     &.is-open {
         .nav {
             display: block;
+            @media (min-width: $unit-measure) {
+                display: flex;
+            }
         }
     }
 }
@@ -51,6 +54,7 @@
 }
 
 .nav-menu {
+    background-color: transparent;
     background-image: url(/images/menu-icon.svg);
     background-position: center;
     background-repeat: no-repeat;
