@@ -16,6 +16,7 @@
 
 <body>
     <style>{% capture font-styles %}{% include fonts.scss %}{% endcapture %}{{ font-styles | scssify }}</style>
+    <a class="skip-link" href="#content">Skip to content</a>
     <header class="navbar{% if page.title == "Homepage" %} navbar--homepage{% endif %}" role="banner">
         <a class="navbar__brand" href="/">
             <svg xmlns="http://www.w3.org/2000/svg" width="167" height="32" fill="none" viewBox="0 0 167 32">
@@ -41,4 +42,4 @@
             </ul>
         </div>
     </header>
-    <main class="container" role="main">
+    <main class="container" id="content" role="main">

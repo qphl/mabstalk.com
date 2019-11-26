@@ -1,0 +1,17 @@
+.skip-link {
+    background-color: $color-white;
+    left: 0;
+    padding: 1.5rem;
+    position: absolute;
+    text-align: center;
+    top: -4.5rem;
+    width: 100vw;
+    z-index: 1;
+    &:focus {
+        top: 0;
+    }
+    @media (min-width: $unit-measure) {
+        padding: 3rem;
+        top: -7.5rem;
+    }
+}
