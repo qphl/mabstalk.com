@@ -3,6 +3,10 @@
     font-size: 100%;
     * {
         box-sizing: inherit;
+        &:focus {
+            outline: 2px solid $color-yellow-700;
+            outline-offset: -2px;
+        }
     }
 }
 
@@ -131,18 +135,4 @@ table {
             vertical-align: top;
         }
     }
-}
-
-.table-cell--highlighted {
-    background-color: $color-yellow-200;
-}
-
-.table-cell--danger {
-    background-color: $color-red-50;
-    color: $color-red-900;
-}
-
-.table-cell--success {
-    background-color: $color-green-50;
-    color: $color-green-900;
 }
