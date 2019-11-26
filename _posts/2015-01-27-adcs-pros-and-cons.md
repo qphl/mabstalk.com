@@ -21,7 +21,7 @@ ADCs combine the targeting ability of mAbs with the cytotoxic power of small mol
 The high specificity of an ADC to its target receptor and combined with the controllable warhead activation and release mechanisms, result in ADCs having significantly less off target action compared to a therapeutically comparable small molecule cytotoxic. Consequently more patients are likely to tolerate ADC regimes. The higher specificity and controllable release mechanisms, ensure more drug successfully reaches the targeted cells, meaning lower concentrations are required to elicit an equivalent therapeutic response compared to antibody, small molecule co-therapy. These two principles give ADCs a wider therapeutic window, potentially making it useful in patients who can no longer tolerate combination therapy, or useful in patients who are no longer responding to combination therapy.
 
 <figure>
-    <img src="/images//Theraputic-Window-Annotated-Web.png">
+    <img src="/images/Theraputic-Window-Annotated-Web.png" alt="Graphical representation of therapeutic windows for chemotherapy and ADCs">
     <figcaption>Figure 1: Graphical representation of therapeutic windows for chemotherapy and ADCs</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Resistance to ADCs takes longer to develop than resistance to their constituent 
 ADCs are still subject to resistance, thus have a limited duration of effectiveness. ADCs must target extracellular receptors, that are endocytosed, to transport the payloads inside the cells. These extracellular receptors may not be exclusively found on the target cell population, while systemic activity may be low there could be unwanted toxicity at another population of cells that also has the targeted receptors present. Also multi-drug resistance pumps (MDRPs) actively remove released warheads. Mutations increasing MDRP expression, activity or reducing selectivity of MDRPs can increase the rate of developing resistance to ADCs.
 
 <figure>
-    <img src="/images/DARDOP-WEB.jpg">
+    <img src="/images/DARDOP-WEB.jpg" alt="Graphical representation of DAR and DOP variations in lysine conjugated ADCs">
     <figcaption>Figure 2: Graphical representation of DAR and DOP variations in lysine conjugated ADCs</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ ADCs are heterogeneous, with variable drug to antibody ratio (DAR) and distribut
 ADCs are also huge compounds, over 150kD, while conventional cytotoxics such as doxorubicin are less than 0.6kD. Their size makes it harder for ADCs to penetrate solid tumours, and less available at their intended site of therapeutic action.
 
 <figure>
-    <img src="/images/ADC-Diagram-Payloads-to-scale-annotated-Web.jpg">
+    <img src="/images/ADC-Diagram-Payloads-to-scale-annotated-Web.jpg" alt="Diagram of an ADC with payloads and doxorubicin scaled to approximate size based on mAb">
     <figcaption>Figure 3: Diagram of an ADC with payloads and doxorubicin scaled to approximate size based on mAb.</figcaption>
 </figure>
 

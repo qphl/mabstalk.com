@@ -19,14 +19,14 @@ Look out for; [ADCs: Pros and Cons](/2015/01/27/adcs-pros-and-cons/), [ADCs: Ori
 The mAb, is responsible for the specificity of the ADC, via variable region binding to the target epitope. The mAb moiety retains normal mAb functionality e.g. trastuzumab emtansine has equivalent inherent anti-HER2 effect to trastuzumab [1]. The mAb is also responsible for initial delivery of the payloads into the cell, which occurs by receptor mediated internalisation see Figure 1 below.
 
 <figure>
-    <img src="/images/ADC-Internalisation-Overview-web.jpg" alt="ADC Internalisation Overview web">
+    <img src="/images/ADC-Internalisation-Overview-web.jpg" alt="Diagram illustrating the process an ADC goes through grom internalisation, through payload releast to receptor recycling">
     <figcaption>Figure 1: Overview of ADC internalisation, payload release & receptor recycling</figcaption>
 </figure>
 
 The mAb isotype affects the levels of antibody dependent cell-mediated cytotoxicity (ADCC) and complement dependent cytotoxicity (CDC). IgG1 and IgG2 are ideal isotypes due to increased ADCC and CDC compared with IgG3 and IgG4.
 
 <figure>
-    <img src="/images/mAb-Diagram-2-Web.jpg">
+    <img src="/images/mAb-Diagram-2-Web.jpg" alt="Diagram showing the binding domains of an IgG isotype antibody">
     <figcaption>Figure 2: Diagram of an IgG isotype Antibody</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Current linker technology attaches to mAbs via lysine or cysteine residues. This
 Linkers have at least two sites of conjugation, one to the payload and one to the mAb, some linkers are more complex with cleavage sites within them. The conjugation chemistries used can be the same or different. This level of control in linker design allows warhead release and warhead pharmacokinetics to be fine tuned.
 
 <figure>
-    <img src="/images/ADC-Diagram-Annotated-Web.jpg">
+    <img src="/images/ADC-Diagram-Annotated-Web.jpg" alt="Diagram showing how payloads are attached to an antibody">
     <figcaption>Figure 3: Diagram of an ADC (Payloads not to scale)</figcaption>
 </figure>
 
@@ -54,21 +54,21 @@ Current favoured drug classes for ADCs include maytansinoids, auristatins and ca
 Trastuzumab emtansine utilises DM-1, a synthetic maytansinoid. Maytansinoids prevent cells progressing through the cell cycle by inhibiting cytoskeleton reorganisation. This is by preventing tubulin dimers polymerising to microtubules.
 
 <figure>
-    <img src="/images/DM-1.png">
+    <img src="/images/DM-1.png" alt="Diagram of the chemical structure of DM-1">
     <figcaption>Figure 4: Structural diagram of DM-1</figcaption>
 </figure>
 
 Brentuximab vedotin’s payload is Monomethyl auristatin E, a synthetic auristatin. Auristatins are also antimitotic agents which halt the cell cycle by by preventing tubulin dimers polymerising to microtubules.
 
 <figure>
-    <img src="/images/MMAE.png">
+    <img src="/images/MMAE.png" alt="Diagram of the chemical structure of MMAE">
     <figcaption>Figure 5: Structural diagram of MMAE</figcaption>
 </figure>
 
 Gemtuzumab ozogamicin used calichaemicin, which binds the DNA minor groove to cause double strand scission. This product was removed from the market due to increasing mortality rates compared with alternative therapies.
 
 <figure>
-    <img src="/images/Calicheamicin.png">
+    <img src="/images/Calicheamicin.png" alt="Diagram of the chemical structure of calicheamicin">
     <figcaption>Figure 6: Structural diagram of calicheamicin</figcaption>
 </figure>
 

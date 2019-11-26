@@ -18,7 +18,7 @@ A number of research groups have also found that many neuro-receptors are affect
 There is a dearth of new treatments for psychosis -there have been no major breakthroughs in the last fifty years, and big pharma has largely neglected the area. It is the same for depression which sees 350 million people suffering worldwide, with an estimated 30 to 60% of these patients not responding to any current pharmacological treatment. In contrast, therapies targeting the immune system have seen heavy investment with a healthy pipeline of drugs already achieving market approval, or in late stage clinical trials.
 
 <figure>
-    <img src="/images/sirukumab.png">
+    <img src="/images/sirukumab.png" alt="">
     <figcaption>Sirukumab Mechanism of Action. IL-6 (pictured in red) is derived from immune cells such as macrophages and has a range of cellular effects, for example on T and B cell differentiation. These increase antibody production and differentiation to cytotoxic T cells respectively, and broadly promote immune responses. Sirukumab (shown in dark blue) binds and neutralises IL-6 protein in vivo, blocking its biological effect, dampening immune responses and inflammation.</figcaption>
 </figure>
 

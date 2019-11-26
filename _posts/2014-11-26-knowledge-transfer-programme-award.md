@@ -5,7 +5,7 @@ layout: post
 ---
 
 <figure>
-    <img src="/images/ben-1024x680.jpg" alt="Ben holding molecule model">
+    <img src="/images/ben-1024x680.jpg" alt="Photo of Ben Young holding model of a molecule">
 </figure>
 
 The University of Bath and local company Bath ASU has been awarded funding, under central government’s Knowledge Transfer Programme (KTP), for a product development programme relating to the shelf life of intravenous cancer therapies.

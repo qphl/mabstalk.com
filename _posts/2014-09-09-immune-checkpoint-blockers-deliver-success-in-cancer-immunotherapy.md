@@ -18,7 +18,7 @@ The recent emergence of cancer immunotherapy, named as “Breakthrough of the Ye
 We now know that white blood cells called T lymphocytes (T cells) are central to immune responses, and without T cells (for example in untreated HIV infected individuals) the immune system simply doesn’t work. T cells become activated by antigen presenting cells (APC’s) such as dendritic cells, and determine the specificity of immune responses since they only react to particular antigens that are recognised by the T cell antigen receptor (TcR).
 
 <figure>
-    <img src="/images/major-player-in-t-cell-act.png" alt="The Major Players in T Cell Activation">
+    <img src="/images/major-player-in-t-cell-act.png" alt="Diagram showing the major players in T cell activation">
 </figure>
 
 T cell activation is initiated by antigens in combination with major histocompatibility proteins (Ag/MHC), on the surface of antigen presenting cells (APC’s). These bind (green arrow) the T cell antigen receptor (TcR) to propagate intracellular signals in the T cell). Full T cell activation requires a second “co-stimulatory” signal (indicated by green T cell plasma membrane) for example CD28 (which drives synthesis of the T cell growth factor interleukin-2, IL-2) or ICOS signals. CD25 is the IL-2 receptor. Some receptors however serve to limit T cell activation (indicated by red plasma membrane), e.g. CTLA-4 and PD-1. These are known as “immune checkpoints” which can be blocked by monoclonal antibodies to boost otherwise weak anti-tumour immune responses.

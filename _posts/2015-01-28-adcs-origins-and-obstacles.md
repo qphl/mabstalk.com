@@ -15,7 +15,7 @@ This is the fourth article in a series of five blog posts that are putting ADCs 
 Conjugating toxic compounds to antibodies was first proposed by Paul Ehrlich at the beginning of the 20th century but scientific understanding and available technology was not sufficient to synthesis ADCs. Initial work by Kohler and Milstein [1] in the 1970’s paved the way for other scientists to begin selectively culturing monoclonal antibodies. Additional key concepts required for a successful ADC were learned during the 1980’s and 1990’s as a result of investigating why the first generation of ADCs did not work as expected.
 
 <figure>
-    <img src="/images/Ehrlich-Kohler-and-Milstein.png" alt="Ehrlich, Kohler and Milstein">
+    <img src="/images/Ehrlich-Kohler-and-Milstein.png" alt="Photos of doctors Ehrlich, Kohler and Milstein">
     <figcaption>Figure 1: Doctors Erlich, Kohler & Milstein</figcaption>
 </figure>
 
@@ -24,14 +24,14 @@ Conjugating toxic compounds to antibodies was first proposed by Paul Ehrlich at 
 Early ADCs used murine or chimeric antibodies. These are recognised as foreign entities by the immune system which raises an immune response. This leads to removal of many ADCs from the blood stream before they can deliver their payloads consequently reducing the concentrations attainable and duration of efficacious therapy. The immune response also causes side effects such as: rash, flu-like syndrome, systemic inflammatory response syndrome or anaphylaxis. To avoid unacceptable levels of immunogenicity, mAbs used in ADCs should ideally be humanised or human, for example The monoclonal antibody rituximab or the ADC brentuximab vedotin are however chimeric antibodies and although weakly immunogenic are still useable.
 
 <figure>
-    <img src="/images/Murin-to-Human-Mab-Comparisons-Annotated-2.jpg">
+    <img src="/images/Murin-to-Human-Mab-Comparisons-Annotated-2.jpg" alt="Ascending from left to right, increasing murine sequence content in a mAb, from fully human to fully murine">
     <figcaption>Figure 2: Ascending from left to right, increasing murine sequence content in a mAb, from fully human to fully murine</figcaption>
 </figure>
 
 Initial attempts at creating ADCs were targeted to receptors that were not selective enough to tumours, resulting in unacceptable toxicity. Another problem was use of linkers that were not stable enough, leading to high levels of payload dissociation while still in circulation resulting in non-selective cytotoxicity. Linker instability was still a problem in the 2000’s as gemtuzumab ozogamicin (GO) releases 50% of its payloads over 48 hours in circulation. Due to this design flaw GO increased fatality rate, compared to alternative therapies. Licensed ADCs use linker chemistry that is extracellularly stable and cleaved or degraded intracellularly.
 
 <figure>
-    <img src="/images/Attachment-Chemistry.png">
+    <img src="/images/Attachment-Chemistry.png" alt="Common attachment chemistries to cysteine and lysine residues">
     <figcaption>Figure 3: Common attachment chemistries to cysteine and lysine residues</figcaption>
 </figure>
 

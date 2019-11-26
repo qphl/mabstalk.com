@@ -21,7 +21,7 @@ ADCs are a new and important class of drugs, essentially monoclonal antibodies w
 ADCs are formed from three important moieties, each as functionally important as the other. The warheads provide the core cytotoxicity. The linkers conjugate warheads to mAbs and control payload release. The mAb provides targeting, delivery and mAb specific cell interactions, e.g. Antibody dependent cell mediated cytotoxicity.
 
 <figure>
-    <img src="/images/ADC-Diagram-Annotated-Web.jpg">
+    <img src="/images/ADC-Diagram-Annotated-Web.jpg" alt="Diagram showing the components and structure of an antibody drug conjugate">
     <figcaption>Figure 1: Diagram of Antibody Drug Conjugate (not to scale)</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Brentuximab vedotin and trastuzumab emtansine are two currently licensed ADCs. B
 ADCs are heterogeneous by nature; they can have between zero and twelve payloads. The number of payloads is referred to as the drug antibody ratio (DAR). DAR has a significant effect on the therapeutic effect, innate stability and pharmacokinetics. Location of payload binding is referred to as distribution of payloads (DOP). DOP can vary between ADCs with the same DAR. DOP could affect the therapeutic activity of an ADC.
 
 <figure>
-    <img src="/images/DAR-4.3-Web.png">
+    <img src="/images/DAR-4.3-Web.png" alt="Diagram showing an ADC with DAR of 4 and different DOP to that shown in figure 1">
     <figcaption>Figure 2: ADC with DAR of 4 and different DOP to Figure 1</figcaption>
 </figure>
 

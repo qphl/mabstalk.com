@@ -24,7 +24,7 @@ Calcitonin Gene-Related Peptide (CGRP) was discovered in the 1980’s when it wa
 Nerve cells join at a synapse where Calcitonin Gene-related Peptide (CGRP) is thought to play a role in the transmission of pain signals. Monoclonal antibodies can modulate CGRP signalling either by binding and neutralising the CGRP itself or by blocking its receptor. Clinical trials are currently ongoing to test this as an effective therapy for migraine prevention.
 
 <figure>
-    <img src="/images/synapse.png">
+    <img src="/images/synapse.png" alt="Diagram of a synapse, showing how antibodies can sit between the trigeminal nerve and the post-junction cell">
 </figure>
 
 With the different effects of CGRP in the body, it was not clear which mechanism was most relevant to migraine. However in the 1990’s a role for CGRP’s pain transmission properties was established in seminal experiments that showed rising levels of CGRP in jugular blood, but not abnormal patterns of blood flow signalled a migraine attack in patients. On relief from migraine pain, levels of CGRP in the body return to normal. In later experiments, researchers injected CGRP into the blood of migraineurs and found that they developed migraine-like headaches within hours, whereas non-migraineurs suffered at most a mild headache. With clear evidence of a role for CGRP in migraine the next step in developing a therapy was to pharmacologically modulate CGRP function and monitor symptoms in patients.
