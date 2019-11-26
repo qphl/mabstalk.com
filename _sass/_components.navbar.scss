@@ -19,14 +19,19 @@
     list-style: none;
     margin: 0;
     padding: 0;
-    &.is-open {
-        display: block;
-    }
     @media (min-width: $unit-measure) {
         display: flex;
         justify-content: flex-end;
         &.is-open {
             display: flex;
+        }
+    }
+}
+
+.nav-container {
+    &.is-open {
+        .nav {
+            display: block;
         }
     }
 }
