@@ -7,13 +7,6 @@
     <link rel="preconnect" href="https://stats.g.doubleclick.net">
     <link rel="preconnect" href="https://www.sps.nhs.uk">
     <meta content="initial-scale=1, width=device-width" name="viewport">
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-WQN395G');</script>
-    <!-- End Google Tag Manager -->
     <meta content="{{ site.description }}" name="description">
     <title>{% if page.layout == "tag" %}Tag: {% endif %}{% if page.title != "Homepage" %}{{ page.title }} — {% endif %}{{ site.name }}</title>
     <style>{% capture styles %}{% include styles.scss %}{% endcapture %}{{ styles | scssify }}</style>
@@ -21,10 +14,137 @@
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQN395G"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQN395G" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <style>
+        .cookie-notice {
+            display: none;
+        }
+        .cookie-notice.is-open {
+            background-color: rgba(0,0,0,0.75);
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            justify-content: flex-end;
+            left: 0;
+            position: fixed;
+            top: 0;
+            width: 100vw;
+            z-index: 1000;
+        }
+        .cookie-banner {
+            background-color: #FFF;
+            overflow-y: auto;
+            padding: 1.5rem;
+        }
+        @media (min-width: 720px) {
+            .cookie-banner {
+                padding: 6rem;
+            }
+        }
+        .cookie-banner h1 {
+            color: #212121;
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            font-size: 24px;
+            font-weight: 700;
+            line-height: 36px;
+            margin: 24px 0 0;
+        }
+        .cookie-banner p {
+            color: #212121;
+            font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            font-size: 16px;
+            line-height: 24px;
+            margin: 0 0 24px;
+            max-width: 720px;
+        }
+        .cookie-banner a {
+            color: #1976D2;
+            text-decoration: underline;
+        }
+        .cookie-banner a:hover {
+            color: #0D47A1;
+        }
+        .cookie-banner a:visited {
+            color: #512DA8;
+        }
+        .cookie-banner a:visited:hover {
+            color: #311B92;
+        }
+        .cookie-button {
+            background-color: #1976D2;
+            border: 0;
+            border-radius: 3px;
+            color: #FFF;
+            cursor: pointer;
+            display: block;
+            font-family: inherit;
+            font-size: inherit;
+            font-weight: 700;
+            line-height: inherit;
+            margin: 0 0 12px;
+            padding: 12px 24px;
+            width: 100%;
+        }
+        @media (min-width: 720px) {
+            .cookie-button {
+                display: inline-block;
+                margin: 0 12px 0 0;
+                width: auto;
+            }
+        }
+        .cookie-button--ghost {
+            border: 1px solid #1976D2;
+            background-color: #FFF;
+            color: #1976D2;
+            padding: 11px 23px;
+        }
+    </style>
+    <div class="cookie-notice" id="cookie-notice">
+      <div class="cookie-banner">
+        <h1>Tell us whether you accept cookies</h1>
+        <p>We use <a href="https://en.wikipedia.org/wiki/HTTP_cookie">cookies</a> to collect information about how our visitors use our website. This information helps us plan and improve our content, to make sure our visitors find what they need.</p>
+        <p><button class="cookie-button" onClick="allowCookies();">Accept cookies</button> <button class="cookie-button cookie-button--ghost" onClick="declineCookies();">Decline cookies</button></p>
+      </div>
+    </div>
+    <script>
+        function qphlTrackingCode() {
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-WQN395G');
+        }
+
+        if (document.cookie.indexOf("allowCookies=true") >= 0) {
+            qphlTrackingCode();
+        } else if (document.cookie.indexOf("allowCookies=false") >= 0) {
+        } else {
+            document.getElementById("cookie-notice").classList.add("is-open");
+        }
+
+        function allowCookies() {
+            var e = new Date;
+            e.setTime(e.getTime() + 31536e6);
+            var o = "expires=" + e.toUTCString();
+            document.cookie = "allowCookies=true; " + o + "; path=/";
+            document.getElementById('cookie-notice').classList.remove("is-open");
+            qphlTrackingCode();
+        }
+
+        function declineCookies() {
+            for (var e = document.cookie.split(";"), o = 0; o < e.length; o++) {
+                var t = e[o].split("=");
+                document.cookie = t[0] + " =; expires = Thu, 01 Jan 1970 00:00:00 UTC; path=/"
+            }
+            var i = new Date;
+            i.setTime(i.getTime() + 31536e6);
+            var n = "expires=" + i.toUTCString();
+            document.cookie = "allowCookies=false; " + n + "; path=/";
+            document.getElementById('cookie-notice').classList.remove("is-open");
+        }
+    </script>
     <style>{% capture font-styles %}{% include fonts.scss %}{% endcapture %}{{ font-styles | scssify }}</style>
     <a class="skip-link" href="#content">Skip to content</a>
     <header class="navbar{% if page.title == "Homepage" %} navbar--homepage{% endif %}" role="banner">
