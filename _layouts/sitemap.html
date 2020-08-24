@@ -4,7 +4,7 @@
 <h2>Pages</h2>
 <ul>
 {% for page in site.pages %}
-{% if page.layout != "tag" and page.title and page.layout != "redirect" and page.title != "Page not found" %}
+{% if page.layout != "tag" and page.title and page.layout != "redirect" and page.title != "Error 404" %}
     <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
