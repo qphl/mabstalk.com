@@ -1,9 +1,4 @@
 [[redirects]]
-  from = "/*"
-  to = "/404/"
-  status = 404
-
-[[redirects]]
   from = "/a-standard-protocol-for-deriving-and-assessment-of-stability/"
   to = "/2013/04/11/nhs-stability-guidance/"
   status = 301
@@ -47,3 +42,8 @@
   from = "/team/"
   to = "/about/"
   status = 301
+
+[[redirects]]
+  from = "/*"
+  to = "/404/"
+  status = 404
