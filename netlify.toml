@@ -13,32 +13,32 @@
   to = "/2012/12/06/article-review-physiochemical-stability-of-diluted-trastuzumab-infusion-solutions-in-polypropylene-infusion-bags/"
   status = 301
 
-[[redirect]]
+[[redirects]]
   from = "/article-reviews/long-term-stability-of-bevacizumab-repacked-in-1-ml-polypropylene-syringes-for-intravitreal-administration/"
   to = "/2013/08/07/article-review-long-term-stability-of-bevacizumab-repacked-in-1-ml-polypropylene-syringes-for-intravitreal-administration/"
   status = 301
 
-[[redirect]]
+[[redirects]]
   from = "/standard-protocol/part-1/"
   to = "https://www.sps.nhs.uk/wp-content/uploads/2013/12/Stability-part-1-small-molecules-5th-Ed-Sept-19.pdf"
   status = 302
 
-[[redirect]]
+[[redirects]]
   from = "/standard-protocol/part-2/"
   to = "https://www.sps.nhs.uk/wp-content/uploads/2020/08/Stability-Part-2-Biopharmaceuticals-v4-Aug-2020.pdf"
   status = 302
 
-[[redirect]]
+[[redirects]]
   from = "/request-article-review/"
   to = "/tag/article-reviews/"
   status = 301
 
-[[redirect]]
+[[redirects]]
   from = "/research/review-of-long-term-stability-of-diluted-solutions-of-the-monoclonal-antibody-rituximab/"
   to = "/2012/11/10/article-review-long-term-stability-of-diluted-solutions-of-the-monoclonal-antibody-rituximab/"
   status = 301
 
-[[redirect]]
+[[redirects]]
   from = "/team/"
   to = "/about/"
   status = 301
